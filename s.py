@@ -11,5 +11,3 @@ print("Bye")
 print("Good Day")
 
 print("hello this is main")
-
-print("this is an master")
